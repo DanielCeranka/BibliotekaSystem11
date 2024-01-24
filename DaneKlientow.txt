@@ -1,0 +1,72 @@
+-----------------------
+ID klienta: 1
+Imie: Jan
+Nazwisko: Brzechwa
+PESEL: 23312312323
+Adres: Miodowa 21
+Nr telefonu: 900900090
+
+-----------------------
+ID klienta: 2
+Imie: Adam
+Nazwisko: Dobrze
+PESEL: 23132112332
+Adres: Belodw 23
+Nr telefonu: 321312312
+
+-----------------------
+ID klienta: 3
+Imie: Dawid
+Nazwisko: Kalik
+PESEL: 32121212333
+Adres: Klucza Hara 23
+Nr telefonu: 321311312
+
+-----------------------
+ID klienta: 4
+Imie: Daniel
+Nazwisko: Dominik
+PESEL: 23112312322
+Adres: Kolejaowa 23
+Nr telefonu: 231123123
+
+-----------------------
+ID klienta: 5
+Imie: Jan
+Nazwisko: Brzechwa
+PESEL: 23112312322
+Adres: Olenska 232
+Nr telefonu: 321123213
+
+-----------------------
+ID klienta: 6
+Imie: KAmil
+Nazwisko: Lanek
+PESEL: 23112312332
+Adres: Kolejowa 21
+Nr telefonu: 544112321
+
+-----------------------
+ID klienta: 7
+Imie: Koala
+Nazwisko: Swir
+PESEL: 21312312323
+Adres: Klonwa 32
+Nr telefonu: 312000999
+
+-----------------------
+ID klienta: 8
+Imie: Janek
+Nazwisko: Waler
+PESEL: 12312312323
+Adres: Kolejowa 21
+Nr telefonu: 999000999
+
+-----------------------
+ID klienta: 9
+Imie: Sigma
+Nazwisko: nAzw
+PESEL: 12312312322
+Adres: kOLEJOWA 2332
+Nr telefonu: 990333999
+
